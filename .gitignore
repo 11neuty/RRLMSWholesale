@@ -1,0 +1,21 @@
+# Abaikan hampir semua isi .idea
+.idea/*
+
+# Simpan setting project yang penting
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/misc.xml
+
+# Ignore setting pengguna atau yang berubah-tergantung mesin
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/jsLibraryMappings.xml
+.idea/shelf/
